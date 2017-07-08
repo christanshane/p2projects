@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inventory>
+	<book>
+		<title>Java for Novice</title>
+		<author>Jum Sheusi </author>
+	</book>
+	<book>
+		<title>Info Security</title>
+		<author>Tom Calabrese</author>
+	</book>
+</inventory>

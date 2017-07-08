@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+	
+	<DatePicker
+		android:id="@+id/myDatePicker"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+		
+	<TextView
+		android:id="@+id/myChosenDate"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/hello_world"
+		android:backgrounhd="#ffffff"
+		android:textColor="#000000"
+		android:textSize="12pt" />
+		
+</LinearLayout>
